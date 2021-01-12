@@ -1,0 +1,2 @@
+# Airbnb_destination_pred
+With Airbnb's data set on Kaggle, we applied an Extreme Gradient Boosting (XGB) classifier model to predict, based on account information, a user’s first booking destination. With these predictions we can help Airbnb deploy targeted marketing on Airbnb’s website to entice newly registered users to book a first stay by customizing each user’s homepage with their predicted three most likely first destinations with a 92.31% accuracy rate.
